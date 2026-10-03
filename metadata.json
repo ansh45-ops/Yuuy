@@ -1,0 +1,6 @@
+{
+  "name": "NexusControl",
+  "description": "Unified command center to monitor Telegram bots, server instances, API task automations, user permissions, and custom webhooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
